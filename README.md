@@ -12,7 +12,7 @@ Author: Vijay Ramakrishnan
 	- [x] View controller lifecycle
 	- [ ] Optional tasks
 
-http://imgur.com/k1cmt04
+<img src="http://i.imgur.com/k1cmt04.gif" alt="" width="300">
 
 # How to run the project:
 
