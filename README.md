@@ -1,4 +1,6 @@
--How to run project:
+Author: Vijay Ramakrishnan
+
+# How to run the project:
 
 1. Open the project in Xcode.
-2. Run the project for the iPhone 6 since it the templates are suited for that screen
+2. Run the project for the iPhone 6 since the template is suited for that screen
